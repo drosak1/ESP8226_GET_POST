@@ -1,5 +1,5 @@
 # ESP8226_GET_POST
-DLB remote connection POST or GET
+www.DLB.one remote connection POST or GET
 
 #(PL)
 Repozytorium ESP8226 POST/GET to program napisany w języku C++, który pozwala na konfigurację modułu ESP8226 do komunikacji z serwerem dlb.com.pl przy użyciu technologii POST lub GET.
